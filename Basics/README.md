@@ -5,7 +5,7 @@
 
 - C++ builds upon the features of C, and thus, most C programs can be compiled and run with a C++ compiler.
 
-`------------------------------------------------------------------------------------------------------------------------------------------------`
+`-------------------------------------------------------------------------------------------------------------------------------`
 
 ## Why C++
 - C++ is a popular and widely used programming language for various reasons. Here are some of the reasons why you might choose to utilize C++:
@@ -34,7 +34,7 @@
 - In summary, C++ offers a great balance of performance, portability, and feature set, making it a versatile and powerful programming language suitable for many applications. With its extensive libraries, active community, and continuous development, C++ is an excellent choice for any software development project.
 
 
-`------------------------------------------------------------------------------------------------------------------------------------------------`
+`-------------------------------------------------------------------------------------------------------------------------------`
 
 
 ## C vs C++
@@ -75,7 +75,7 @@
 - Enables catching and handling exceptions with try, catch, and throw keywords, providing more control over error handling.
 
 
-`------------------------------------------------------------------------------------------------------------------------------------------------`
+`-------------------------------------------------------------------------------------------------------------------------------`
 
 
 ## Introduction to C++
@@ -99,7 +99,7 @@
 - To perform input and output operations in C++, we can use the built-in objects `std::cin` for input and `std::cout` for output, available in the iostream library.
 
 
-`------------------------------------------------------------------------------------------------------------------------------------------------`
+`-------------------------------------------------------------------------------------------------------------------------------`
 
 
 # Variables and Data Types
@@ -117,7 +117,7 @@ C++ provides control structures for conditional execution and iteration, such as
 - Functions are reusable blocks of code that can be called with arguments to perform a specific task. Functions are defined with a return type, a name, a parameter list, and a body.
 
 
-`------------------------------------------------------------------------------------------------------------------------------------------------`
+`-------------------------------------------------------------------------------------------------------------------------------`
 
 
 ## Basic Operations in C++
