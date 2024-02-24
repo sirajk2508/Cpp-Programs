@@ -64,7 +64,6 @@
 - Memory management is manual, using functions like malloc and free.
 
 ## C++
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - C++ is both procedural and object-oriented.
 - Supports both functions and classes.
 - Incorporates different programming paradigms.
@@ -84,26 +83,23 @@
 
 ## Error Handling
 
-## C
+#### C
 - Error handling in C is done primarily through return codes.
 - Lacks support for exceptions or any built-in error handling mechanism.
 - 
-## C++
+#### C++
 - Offers exception handling, which can be used to handle errors that may occur during program execution.
 - Enables catching and handling exceptions with try, catch, and throw keywords, providing more control over error handling.
-
 
 `-------------------------------------------------------------------------------------------------------------------------------`
 
 # Introduction to C++
 - C++ is a general-purpose, high-performance programming language. It was developed by Bjarne Stroustrup at Bell Labs starting in 1979. C++ is an extension of the C programming language, adding features such as classes, objects, and exceptions.
 
-<<<<<<< HEAD
 ### Basics of C++ Programming
 - Here are some basic components and concepts in C++ programming:
 
 #### Including Libraries
-=======
 **Basics of C++ Programming**
 - Here are some basic components and concepts in C++ programming:
 
@@ -124,13 +120,9 @@
     ```
 
 #### Input/Output
-=======
 **Input/Output**
 - To perform input and output operations in C++, we can use the built-in objects `std::cin` for input and `std::cout` for output, available in the iostream library.
 
-
-### Variables and Data Types
-=======
 `-------------------------------------------------------------------------------------------------------------------------------`
 
 
@@ -155,7 +147,6 @@ C++ provides control structures for conditional execution and iteration, such as
 ## Functions
 - Functions are reusable blocks of code that can be called with arguments to perform a specific task. Functions are defined with a return type, a name, a parameter list, and a body.
 
-
 `-------------------------------------------------------------------------------------------------------------------------------`
 
 # Basic Operations in C++
@@ -174,7 +165,6 @@ C++ provides control structures for conditional execution and iteration, such as
 #### Bitwise Operations
 - Bitwise operations are operations that directly manipulate the bits of a number. Bitwise operations are useful for various purposes, such as optimizing algorithms, performing certain calculations, and manipulating memory.
 
----
 
 # Lambda Functions in C++
 - A lambda function, or simply “lambda”, is an anonymous (unnamed) function that is defined in place, within your source code, and with a concise syntax. Lambda functions were introduced in C++11 and have since become a widely used feature, especially in combination with the Standard Library algorithms.
