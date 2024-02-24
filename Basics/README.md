@@ -5,16 +5,11 @@
 
 - C++ builds upon the features of C, and thus, most C programs can be compiled and run with a C++ compiler.
 
-<<<<<<< HEAD
----
-=======
 `-------------------------------------------------------------------------------------------------------------------------------`
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 
 # Why C++
 - C++ is a popular and widely used programming language for various reasons. Here are some of the reasons why you might choose to utilize C++:
 
-<<<<<<< HEAD
 ### Performance
 - C++ is designed to provide high performance and efficiency. It offers fine-grained control over system resources, making it easier to optimize your software.
 
@@ -33,8 +28,6 @@
 ### Combination with C language
 - C++ can be combined with C, offering the capabilities of both languages and allowing you to reuse your existing C code. By incorporating C++ features, you can enhance your code and improve its functionality.
 
-### Active Community
-=======
 ## Performance
 - C++ is designed to provide high performance and efficiency. It offers fine-grained control over system resources, making it easier to optimize your software.
 
@@ -53,78 +46,39 @@
 ## Combination with C language
 - C++ can be combined with C, offering the capabilities of both languages and allowing you to reuse your existing C code. By incorporating C++ features, you can enhance your code and improve its functionality.
 
-## Active Community
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - C++ has been around for a long time and has a large, active community of users who contribute to the growth of the language, express new ideas, and engage in discussions that help develop the language further. This makes finding solutions to any problems you experience much easier.
 
 - In summary, C++ offers a great balance of performance, portability, and feature set, making it a versatile and powerful programming language suitable for many applications. With its extensive libraries, active community, and continuous development, C++ is an excellent choice for any software development project.
 
-<<<<<<< HEAD
----
-=======
-
 `-------------------------------------------------------------------------------------------------------------------------------`
-
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 
 # C vs C++
 - C and C++ are two popular programming languages with some similarities, but they also have key differences. C++ is an extension of the C programming language, with added features such as object-oriented programming, classes, and exception handling. Although both languages are used for similar tasks, they have their own syntax and semantics, which makes them distinct from each other.
 
-<<<<<<< HEAD
-### Syntax and Semantics
-
-#### C
-=======
 ## Syntax and Semantics
 
 ## C
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - C is a procedural programming language.
 - Focuses on functions and structured programming.
 - Does not support objects or classes.
 - Memory management is manual, using functions like malloc and free.
 
-<<<<<<< HEAD
-#### C++
-=======
 ## C++
 >>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - C++ is both procedural and object-oriented.
 - Supports both functions and classes.
 - Incorporates different programming paradigms.
 - Memory management can be manual (like C) or rely on constructors/destructors and smart pointers.
+  
 
-<<<<<<< HEAD
-### Code Reusability and Modularity
-
-#### C
-=======
 ## Code Reusability and Modularity
 
-## C
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
+#### C
 - Code reusability is achieved through functions and modular programming.
 - High cohesion and low coupling are achieved via structured design.
 - Function libraries can be created and included through headers.
 
-<<<<<<< HEAD
 #### C++
-- Offers better code reusability with classes, inheritance, and polymorphism.
-- Code modularity is enhanced through namespaces and well-designed object-oriented hierarchy.
-
-### Error Handling
-
-#### C
-- Error handling in C is done primarily through return codes.
-- Lacks support for exceptions or any built-in error handling mechanism.
-
-#### C++
-- Offers exception handling, which can be used to handle errors that may occur during program execution.
-- Enables catching and handling exceptions with try, catch, and throw keywords, providing more control over error handling.
-
----
-=======
-## C++
 - Offers better code reusability with classes, inheritance, and polymorphism.
 - Code modularity is enhanced through namespaces and well-designed object-oriented hierarchy.
 
@@ -133,14 +87,13 @@
 ## C
 - Error handling in C is done primarily through return codes.
 - Lacks support for exceptions or any built-in error handling mechanism.
+- 
 ## C++
 - Offers exception handling, which can be used to handle errors that may occur during program execution.
 - Enables catching and handling exceptions with try, catch, and throw keywords, providing more control over error handling.
 
 
 `-------------------------------------------------------------------------------------------------------------------------------`
-
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 
 # Introduction to C++
 - C++ is a general-purpose, high-performance programming language. It was developed by Bjarne Stroustrup at Bell Labs starting in 1979. C++ is an extension of the C programming language, adding features such as classes, objects, and exceptions.
@@ -155,17 +108,13 @@
 - Here are some basic components and concepts in C++ programming:
 
 **Including Libraries**
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - In C++, we use the #include directive to include libraries or header files into our program. For example, to include the standard input/output library, we write:
     ```cpp
     #include<iostream>
     ```
 
-<<<<<<< HEAD
 #### Main Function
-=======
  **Main Function**
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - The entry point of a C++ program is the main function. Every C++ program must have a main function:
     ```cpp
     int main() {
@@ -174,23 +123,18 @@
     }
     ```
 
-<<<<<<< HEAD
 #### Input/Output
 =======
 **Input/Output**
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - To perform input and output operations in C++, we can use the built-in objects `std::cin` for input and `std::cout` for output, available in the iostream library.
 
----
 
-<<<<<<< HEAD
 ### Variables and Data Types
 =======
 `-------------------------------------------------------------------------------------------------------------------------------`
 
 
 # Variables and Data Types
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
 - C++ has several basic data types for representing integer, floating-point, and character values:
 
 * int: integer values
@@ -198,15 +142,13 @@
 * double: double-precision floating-point values
 * char: single characters
 
-<<<<<<< HEAD
 #### Control Structures
 - C++ provides control structures for conditional execution and iteration, such as `if`, `else`, `while`, `for`, and `switch` statements.
 
 #### Functions
 - Functions are reusable blocks of code that can be called with arguments to perform a specific task. Functions are defined with a return type, a name, a parameter list, and a body.
 
----
-=======
+
 ## Control Structures
 C++ provides control structures for conditional execution and iteration, such as `if`, `else`, `while`, `for`, and `switch` statements.
 
@@ -216,11 +158,8 @@ C++ provides control structures for conditional execution and iteration, such as
 
 `-------------------------------------------------------------------------------------------------------------------------------`
 
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
-
 # Basic Operations in C++
 
-<<<<<<< HEAD
 #### Arithmetic Operations
 - `Addition(+)`, `Subtraction(-)`, `Multiplication(*)`, `Division(/)`, `Modulus(%)`
 
@@ -254,7 +193,6 @@ Here is a basic syntax of a lambda function in C++:
 - **return_type**: The type of the value that the lambda function will return. This part is optional, and the compiler can deduce it in many cases.
 - **function body**: The code that defines the operation of the lambda function.
 
-=======
 ## Arithmetic Operations
 - `Addition(+)`, `Subtraction(-)`, `Multiplication(*)`, `Division(/)`, `Modulus(%)`
 
@@ -286,4 +224,3 @@ Here is a basic syntax of a lambda function in C++:
 
 **Bitwise Right Shift (`>>`)**
 The bitwise right shift operation (`>>`) is a binary operation that takes two numbers, a value and a shift amount, and returns a new number by shifting the bits of the value to the right by the specified shift amount. The vacated bits are filled with zeros or sign bit depending on the input value being signed or unsigned.
->>>>>>> a9696fc7af97e98498413f2245a1141062ce4a0c
