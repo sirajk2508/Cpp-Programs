@@ -26,3 +26,11 @@
 - When a class is defined no memory is assigned but when object is created then memory is assigned.
 
 
+#### Constructor
+- Constructor is an `Initialization Function`. It is a member function of a class, whose name is same as that of the class.
+- Invoked at the time of object creation.
+- Does not have a return type or a return value.
+- It initializes the variables/values.
+
+##### Why use Constructor?
+- The only reason I find constructor is used instead of a normal initialization function is that it stops different people from using different different function names and avoid ambiguity and it is much easier to use constructor which is instantiated as an object is created. It is helpful when working with large programs.
