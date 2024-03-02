@@ -34,3 +34,13 @@
 
 ##### Why use Constructor?
 - The only reason I find constructor is used instead of a normal initialization function is that it stops different people from using different different function names and avoid ambiguity and it is much easier to use constructor which is instantiated as an object is created. It is helpful when working with large programs.
+
+3. Encapsulation:
+- Encapsulation is the packing/binding of `data` and `functions operating on that data` into a single component and restricting it's access to some of the object's component.
+- Encapsulation means that the internal representation of an object is generally hidden from view outside of the object's definition.
+- *Encapsulation*: **Information hiding.**
+- *Abstraction*: **Implementation hiding**
+
+**Two Important Property of Encapsulation:**
+    a. Data Protection: data members of a class are kept private.
+    b. Information hiding: hides internal implementation details of a class.
